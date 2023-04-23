@@ -983,7 +983,7 @@
                              B                 "prayer book on stand w/ removable canisters, ""Grace before meals... Grace after meals"""
                     1069a    C                 "silver coffee pots, ""Wisconsin"", w/ matching plastic silver tray, made in Japan"
                     1069b    C                 "gold coffee pots w/ ""Wisconsin"" on matching tray, made in Japan"
-            wrapped in 55    C                 "meter maid & parking meter, made in Korea"
+ no number, wrapped in 55    C                 "meter maid & parking meter, made in Korea"
               2A unlisted    D                 "glass Golden Harvest mason jars w/ handles, metal lids"
               3A unlisted    D                 puerto rico square cylinders
               5A unlisted    D                 "glass Guinness extra stout bottles, in original box"
