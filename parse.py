@@ -37,7 +37,7 @@ for i in range(1, len(lines)):
     entry[KEY] = entry[KEY].replace("\"", "")
     no_number_database[entry[KEY]] = entry
 
-output_format = "%25s %4s %15s %s"
+output_format = "%29s %4s %15s %s"
 
 maxIndex = max(database.keys())
 for i in range(1, (maxIndex + 1)):
