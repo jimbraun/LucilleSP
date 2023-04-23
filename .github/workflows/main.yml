@@ -2,7 +2,7 @@ name: auto-build list
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   make-list:
