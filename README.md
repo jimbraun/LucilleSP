@@ -983,6 +983,7 @@
                              B                 "prayer book on stand w/ removable canisters, ""Grace before meals... Grace after meals"""
                     1069a    C                 "silver coffee pots, ""Wisconsin"", w/ matching plastic silver tray, made in Japan"
                     1069b    C                 "gold coffee pots w/ ""Wisconsin"" on matching tray, made in Japan"
+ no number, wrapped in 55    C                 "meter maid & parking meter, made in Korea"
               2A unlisted    D                 "glass Golden Harvest mason jars w/ handles, metal lids"
               3A unlisted    D                 puerto rico square cylinders
               5A unlisted    D                 "glass Guinness extra stout bottles, in original box"
@@ -996,4 +997,3 @@
                       11A    E                 "Black ceramic egg with ""California"".  Made in Japan.  Only 1"
                       12A    E                 "Plastic metal stand, made in Hong Kong.  No partners"
                       13A    F                 Gold metal boots with Conway Twitty shield. Made in Japan
- no number, wrapped in 55    C                 "meter maid & parking meter, made in Korea"
