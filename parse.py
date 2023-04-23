@@ -34,6 +34,7 @@ for i in range(1, len(lines)):
   try:
     database[int(entry[KEY])] = entry
   except:
+    entry[KEY] = entry[KEY].replace("\"", "")
     no_number_database[entry[KEY]] = entry
 
 output_format = "%23s %4s %15s %s"
