@@ -9,7 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: "Fetching Repository Contents"
-      uses: actions/checkout@main
+      uses: actions/checkout@v3
+      with:
+        submodules: recursive
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     # Runs a set of commands using the runners shell
     - name: Update README.md
