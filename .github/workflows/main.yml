@@ -1,4 +1,4 @@
-name: auto-build list
+name: make-list
 
 on:
   push:
